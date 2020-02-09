@@ -1,4 +1,4 @@
-# seniorDesign
+# Senior Design Project
 
 ## Project Description:
 - Analyzing over 25m open source projects and creating a web dashboard to display the results
