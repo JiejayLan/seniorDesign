@@ -7,7 +7,7 @@
 
 ## Demo
 <img src='./demo/view.gif' alt='View' />
-![](view.gif)
+<img src='./gif_demo/view.gif' alt='View' />
 ## Repos links
 - [backend API](https://github.com/JiejayLan/repo_search_engine)
 - [fronend repo](https://github.com/Kaihchen1230/senior-design-frontend)
