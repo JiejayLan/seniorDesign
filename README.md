@@ -21,6 +21,12 @@ https://open-source-searching-platform.web.app/
 - Provide prediction of the commit counts based on the historical commits
 - Recommendation for similar repositories
 
+## Tools Used:
+1. Angular
+1. Tensorflow
+1. Java Spring Boot
+1. Python Flask
+
 
 ## Repos links
 - [Backend API](https://github.com/JiejayLan/repo_search_engine)
