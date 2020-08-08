@@ -1,13 +1,13 @@
 # Senior Design Project
-[Deploy Link]https://open-source-searching-platform.web.app/
+- [Deploy Link](https://open-source-searching-platform.web.app/)
+
+- [Demo Video](https://imgur.com/eonck2G)
+
 ## Project Description:
 - Analyzing over 25m open source projects and creating a web dashboard to display the results
 - Extracting features from the dataset and using TensorFlow to train a machine learning model
 - Using the model created and TensorFlow.js to predict star numbers that a new project can get on the web dashboard
 
-## Demo
-<img src='./demo/view.gif' alt='View' />
-<img src='./gif_demo/view.gif' alt='View' />
 ## Repos links
 - [backend API](https://github.com/JiejayLan/repo_search_engine)
 - [fronend repo](https://github.com/Kaihchen1230/senior-design-frontend)
