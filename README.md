@@ -3,8 +3,12 @@
 
 ## Project Description:
 - Analyzing over 25m open source projects and creating a web dashboard to display the results
-- Extracting features from the dataset and using TensorFlow to train a machine learning model
-- Using the model created and TensorFlow.js to predict star numbers that a new project can get on the web dashboard
+- Search popular repositories from different platforms by keywords(GitHub, GitLab and BitBucket) 
+- Provide ranking for the search results
+- Filter search results by languages or platforms 
+- Provide prediction of the commit counts based on the historical commits
+- Recommendation for similar repositories
+
 
 ## Repos links
 - [Backend API](https://github.com/JiejayLan/repo_search_engine)
