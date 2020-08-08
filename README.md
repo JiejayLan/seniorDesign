@@ -12,7 +12,8 @@
 - [backend API](https://github.com/JiejayLan/repo_search_engine)
 - [fronend repo](https://github.com/Kaihchen1230/senior-design-frontend)
 
-![Alt text](./git_demo/searchResult.jpg "Title")
+![Alt text](https://github.com/JiejayLan/seniorDesign/blob/master/gif_demo/searchResult.png )
+![Alt text](https://github.com/JiejayLan/seniorDesign/blob/master/gif_demo/searchResult2.png )
 
 ## Member Names:
 - Jie Lan (Team Leader)
