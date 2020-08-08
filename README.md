@@ -6,7 +6,7 @@
 - Using the model created and TensorFlow.js to predict star numbers that a new project can get on the web dashboard
 
 ## Demo
-<img src='./view.gif' alt='View' />
+<img src='./demo/view.gif' alt='View' />
 
 ## Repos links
 - [backend API](https://github.com/JiejayLan/repo_search_engine)
