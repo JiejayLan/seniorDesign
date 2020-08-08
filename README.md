@@ -1,5 +1,17 @@
-# Senior Design Project
-[Deploy Link](https://open-source-searching-platform.web.app/)
+# Senior Design Project 
+
+## Refer here for our website
+https://open-source-searching-platform.web.app/
+
+## Member Names:
+- Jie Lan (Team Leader && Backend developer)
+- Bida Chen (Machine learning developer)
+- Kai Hang Chen (Frontend developer)
+
+## Background:
+- There are so many open source projects on different Git repository hosting services. Such as: GitHub, GitLab, BitBucket
+- There are so many languages/frameworks available in open source community, but we are not able to predict which languages or frameworks will be popular in the future.
+- It is also difficult to compare repositories from different platforms
 
 ## Project Description:
 - Analyzing over 25m open source projects and creating a web dashboard to display the results
@@ -23,7 +35,3 @@ Search Result
 Repository Detail and Predition
 ![Alt text](https://github.com/JiejayLan/seniorDesign/blob/master/gif_demo/searchResult2.png )
 
-## Member Names:
-- Jie Lan (Team Leader)
-- Bida Chen
-- Kai Hang Chen
