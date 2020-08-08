@@ -1,5 +1,5 @@
 # Senior Design Project
-- [Deploy Link](https://open-source-searching-platform.web.app/)
+[Deploy Link](https://open-source-searching-platform.web.app/)
 
 ## Project Description:
 - Analyzing over 25m open source projects and creating a web dashboard to display the results
