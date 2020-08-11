@@ -1,5 +1,5 @@
 # Senior Design Project 
-
+Search Engine is an application providing repositories search, recommendation, commit prediction and popularity ranking across multiple open source platforms, such as GitHub, GitLab and Bitbucket
 ## Refer here for our website
 https://open-source-searching-platform.web.app/
 
